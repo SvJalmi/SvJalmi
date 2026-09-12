@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Shreya 👋
 
-<!--
-**SvJalmi/SvJalmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Engineering student at NIT Goa, interested in
+software development, AI/ML and DevOps.
 
-Here are some ideas to get you started:
+I enjoy building practical projects and learning by working on
+real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently working with
+
+Python · C++ · JavaScript/TypeScript · React · Node.js · Flask · Docker · Git
+
+### Areas I'm exploring
+
+AI/ML · Software Engineering · DevOps
+
+### Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/shreya-jalmi-b15081290) · [Email](jalmishreya14@gmail.com)
